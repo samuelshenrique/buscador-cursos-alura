@@ -41,5 +41,6 @@
     "scripts-descriptions": {
         "check": "Script realizado para verificações do código"
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos.php"]
 }
