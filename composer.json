@@ -40,5 +40,6 @@
     },
     "scripts-descriptions": {
         "check": "Script realizado para verificações do código"
-    }
+    },
+    "license": "GPL-3.0"
 }
